@@ -50,7 +50,7 @@ This project has the potential to significantly impact customer relationship man
 
 ## Usage Instructions
 
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository: `git clone <https://github.com/Milind1505/nlp-feedback-categorization/edit/main/README.md>`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Prepare your data: Ensure your feedback data is in a suitable format (e.g., CSV file).
 4. Run the main script: `python main.py`
@@ -66,9 +66,5 @@ This project has the potential to significantly impact customer relationship man
 
 ## Contact
 
-[Your Name]
-[Your LinkedIn Profile URL]
-
-## License
-
-[Choose a license, e.g., MIT License]
+Milind Bage
+https://www.linkedin.com/in/milind-bage-652b67179/
